@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="feathers themes" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Frameworks/feathers 1.3.0/themes/AeonDesktopTheme/swc" />
+      <root url="file://$PROJECT_DIR$/../Frameworks/feathers 1.3.0/themes/MinimalMobileTheme/swc" />
+      <root url="file://$PROJECT_DIR$/../Frameworks/feathers 1.3.0/themes/MetalWorksMobileTheme/swc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Frameworks/feathers 1.3.0/themes/AeonDesktopTheme/swc" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Frameworks/feathers 1.3.0/themes/MetalWorksMobileTheme/swc" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Frameworks/feathers 1.3.0/themes/MinimalMobileTheme/swc" recursive="false" />
+  </library>
+</component>
